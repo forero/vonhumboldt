@@ -1,3 +1,9 @@
+## General considerations
+
+* The duration of the research fellowship (6-18 months) may be divided up into a maximum of three
+visits lasting a minimum of three months each. No more than 36 months may elapse between
+the beginning of the first stay and the end of the last stay.   
+
 ## Required application documents
 
 * Curriculum vitae (two pages max)  
